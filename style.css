@@ -8,7 +8,8 @@
 
     body {
         font-family: 'Poppins', sans-serif;
-        background-color: #151515;
+        /*background-color: #151515;*/
+       background-color: #ffffff;
         display: grid;
         place-content: center;
         height: 100vh;
